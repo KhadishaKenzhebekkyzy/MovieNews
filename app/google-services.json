@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "652213090293",
+    "firebase_url": "https://movienews-2020.firebaseio.com",
+    "project_id": "movienews-2020",
+    "storage_bucket": "movienews-2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652213090293:android:7bfbfd20038c35640952bc",
+        "android_client_info": {
+          "package_name": "com.example.thousand_it_company"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652213090293-1i8qf6ap5lgoj96qft6mhp4g84id6k01.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.thousand_it_company.activities",
+            "certificate_hash": "4becec7c15ab92541877b858746ef536dc571759"
+          }
+        },
+        {
+          "client_id": "652213090293-gg36o1h14th01ckahr99sv57kffjv0ql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnzsy8zGRFHmv0WWqiysT_eQP6OKOMeHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652213090293-gg36o1h14th01ckahr99sv57kffjv0ql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
